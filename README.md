@@ -15,6 +15,11 @@ Add/Remove Programs
 appwiz.cpl
 ```
 
+Mouse Properties
+```sh
+main.cpl
+```
+
 Command Terminal
 ```sh
 cmd
@@ -23,11 +28,6 @@ cmd
 Control Panel
 ```sh
 control
-```
-
-System Properties - Advanced
-```sh
-systempropertiesadvanced
 ```
 
 Device Manager
@@ -55,11 +55,53 @@ Screen Display Settings
 ms-settings-displays-topology:projection
 ```
 
+Display Properties / Resolution
+```sh
+desk.cpl
+```
+
+
 Screen Clip
 ```sh
 ms-screenclip:?source=QuickActions
 ```
 
+Sound Properties
+```sh
+mmsys.cpl
+```
+
+Time/Date
+```sh
+timedate.cpl 
+```
+
+Power Settings
+```sh
+powercfg.cpl
+```
+
+Firewall Settings
+```sh
+firewall.cpl
+```
+
+Action Center
+```sh
+wscui.cpl
+```
+
+## System Properties
+
+Computer Name
+```sh
+sysdm.cpl
+```
+
+Advanced
+```sh
+systempropertiesadvanced
+```
 
 ## Applications
 
